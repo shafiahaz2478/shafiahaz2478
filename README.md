@@ -12,6 +12,8 @@
 <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafiahaz2478&v=2"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiahaz2478&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/shafiahaz2478/shafiahaz2478/animation/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/shafiahaz2478/shafiahaz2478/animation/github-contribution-grid-snake.svg#gh-light-mode-only"/>
